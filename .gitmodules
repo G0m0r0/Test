@@ -1,0 +1,3 @@
+[submodule "extermal/example-submodule"]
+	path = extermal/example-submodule
+	url = https://github.com/G0m0r0/Small-Projects.git
